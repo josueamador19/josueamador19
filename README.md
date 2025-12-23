@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Oscar Josué Ordóñez Amador</h1>
+<h1 align="center">Hola , Soy Oscar Josué Ordóñez Amador</h1>
 <h3 align="center">Estudiante de Ingeniería en Sistemas | Infraestructura, Redes y Desarrollo Web</h3>
 
 ---
