@@ -35,7 +35,7 @@ Me caracterizo por ser **proactivo, autodidacta y adaptable**, con enfoque en so
 <a href="https://reactjs.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40" height="40"/></a>
 <a href="https://fastapi.tiangolo.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" width="40" height="40"/></a>
 <a href="https://spring.io/" target="_blank"><img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" width="40" height="40"/></a>
-<a href="https://laravel.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" width="40" height="40"/></a>
+<a href="https://laravel.com/"><img src="https://cdn.simpleicons.org/laravel/FF2D20" width="40"/></a>
 <a href="https://getbootstrap.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" width="40" height="40"/></a>
 <a href="https://tailwindcss.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="40" height="40"/></a>
 </p>
@@ -55,11 +55,12 @@ Me caracterizo por ser **proactivo, autodidacta y adaptable**, con enfoque en so
 
 <h4 align="left">🧱 Virtualización & Infraestructura</h4>
 <p align="left">
-<a href="https://www.virtualbox.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/virtualbox/virtualbox-original.svg" width="40" height="40"/></a>
-<a href="https://www.vmware.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vmware/vmware-original.svg" width="40" height="40"/></a>
-<a href="https://www.docker.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="40" height="40"/></a>
-<a href="https://www.cisco.com/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/6/64/Cisco_logo.svg" width="40" height="40"/></a>
+<a href="https://www.virtualbox.org/"><img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Virtualbox_logo.png" width="40"/></a>
+<a href="https://www.vmware.com/"><img src="https://upload.wikimedia.org/wikipedia/commons/5/5a/Vmware_workstation_16_icon.svg" width="40"/></a>
+<a href="https://www.docker.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="40"/></a>
+<a href="https://www.cisco.com/"><img src="https://upload.wikimedia.org/wikipedia/commons/6/64/Cisco_logo.svg" width="40"/></a>
 </p>
+
 
 <h4 align="left">🧰 Herramientas</h4>
 <p align="left">
