@@ -74,4 +74,4 @@ Me caracterizo por ser **proactivo, autodidacta y adaptable**, con enfoque en so
 
 Actualmente me encuentro desarrollando una plataforma para que los usuarios, mas que todo los estudiantes tengan una manera de organizarse y lograr ser mas productivo, teniendo tableros Kanban, lista de actividades, edicion de actividades.. aun se encuentra en fase beta
 
-<a href="cronoplan.vercel.app">cronoplan.vercel.app</a>
+<a href="https://cronoplan.vercel.app/">cronoplan.vercel.app</a>
