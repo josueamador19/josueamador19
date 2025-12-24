@@ -70,4 +70,8 @@ Me caracterizo por ser **proactivo, autodidacta y adaptable**, con enfoque en so
 <a href="https://www.atlassian.com/software/jira" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jira/jira-original.svg" width="40" height="40"/></a>
 </p>
 
+---
 
+Actualmente me encuentro desarrollando una plataforma para que los usuarios, mas que todo los estudiantes tengan una manera de organizarse y lograr ser mas productivo, teniendo tableros Kanban, lista de actividades, edicion de actividades.. aun se encuentra en fase beta
+
+cronoplan.vercel.app
